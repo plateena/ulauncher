@@ -34,7 +34,7 @@
         "name": "Github",
         "keyword": "github",
         "cmd": "https://github.com/search?q=%s",
-        "icon": null,
+        "icon": "~/.config/ulauncher/icon/github.png",
         "is_default_search": false,
         "run_without_argument": false,
         "added": 1716883457.6189322
@@ -44,7 +44,7 @@
         "name": "Youtube",
         "keyword": "y",
         "cmd": "https://www.youtube.com/results?search_query=%s",
-        "icon": null,
+        "icon": "~/.config/ulauncher/icon/youtube.png",
         "is_default_search": false,
         "run_without_argument": false,
         "added": 1716883529.7638755
